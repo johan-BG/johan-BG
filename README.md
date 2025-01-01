@@ -75,18 +75,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johan-bg&show_icons=true&locale=en" alt="johan-bg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johan-bg&" alt="johan-bg" /></p>
-
-<style>
-    .tooltip:hover::after {
-        content: attr(title);
-        position: absolute;
-        background-color: rgba(0, 0, 0, 0.7);
-        color: white;
-        padding: 5px;
-        border-radius: 3px;
-        font-size: 12px;
-        white-space: nowrap;
-        z-index: 1;
-    }
-</style>
